@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Hold">
+
+    <Button
+        android:id="@+id/productos_button"
+        android:layout_weight="1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="28sp"
+        android:text="Productos"
+        android:backgroundTint="@color/company_secudary"
+        />
+    <Button
+        android:id="@+id/services_button"
+        android:textSize="28sp"
+        android:layout_weight="1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Servicios"
+        android:backgroundTint="@color/company_primary" />
+    <Button
+        android:id="@+id/contact_us_button"
+        android:textSize="28sp"
+        android:layout_weight="1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Contáctenos"
+        android:backgroundTint="@color/company_secudary"/>
+
+
+</LinearLayout>

@@ -1,0 +1,182 @@
+<resources>
+    <string name="app_name">PromoDesoft</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="company_name">desoft</string>
+    <string name="company_slogan">Aplicaciones Informáticas</string>
+    <string name="about_desoft"> La Empresa de Aplicaciones Informáticas, Desoft, integrada al Grupo Empresarial de
+la Informática y las Comunicaciones (GEIC), es una entidad cubana, perteneciente al
+Ministerio de Comunicaciones (MINCOM) que, apuesta por la transformación digital,
+erigiéndose como líder en la prestación de Software como Servicio (SaaS) en el país.\n\n
+Ofrece un ecosistema digital donde consumidores y proveedores establecen una sinergia
+que potencia la eficiencia en el desempeño de las gestiones empresariales y de gobierno,
+ofreciendo mayores garantías, flexibilidad y acompañamiento, asequible a todos los clientes.\n\n
+Bajo este paradigma, cuenta con profesionales competentes y comprometidos que
+brindan soluciones y servicios integrales, asociados a las Tecnologías de la Información,
+lo que unido al aseguramiento de los ciclos de desarrollo por la implementación del
+modelo de calidad MCDAI (basado en CMMI-Capability Maturity Model Integration)
+garantiza la calidad de sus servicios.\n\n
+La búsqueda de la excelencia impulsa día a día a Desoft a perfeccionarse para estar a tono
+con las nuevas tecnologías y modelos de negocios, en aras de brindar un mejor servicio de
+acuerdo a los estándares internacionales, acompañar al cliente a informatizar sus procesos
+internos y lograr el éxito en el cumplimiento de sus metas.</string>
+
+    <!-- Productos y descripción -->
+    <string name="energux">Energux</string>
+    <string name="energux_description"> Sistema para el control de todos los portadores deregéticos
+    (energía, lubricantes y combustibles, las targetas, el índice de cunsumo de los vehículos y
+    kilometrajes, equipos tecnológicos; así como gas y agua), constituyendo una vía para la eficiencia
+    . Permite obtener reportes como: Informe de Análisis para la ONURE por tarjetas e Informe 5073 y CDA002,
+    para contabilidad y tansporte.</string>
+
+    <string name="cheqcon">Cheqcon</string>
+    <string name="cheqcon_description"> Sistema para el control de documentos de pago y la
+    impresión de los mismos en su propio talonario(configurando su imresora láser o de cinta) disminuyendo
+    la ocurrencia de errores humanos. Permite gestionar los proveedores y los indicadores de circulación monetaria.
+    Facilita generar reportes como; Constancia de emisión y entrega, Listado de documentos emitidos por
+    períodos, debilitados y cancelados, registro de cancelaciones, de Solicitud de pago, Acta de flujo de caja.</string>
+
+    <string name="agenda_express">Agenda Express</string>
+    <string name="agenda_description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
+        do eiusmod tempor incididunt ut labore et dolore magna aliqua. Cum sociis natoque penatibus
+        et magnis dis parturient montes. Ultrices neque ornare aenean euismod elementum nisi quis.
+        Faucibus scelerisque eleifend donec pretium vulputate sapien nec. Libero justo laoreet sit
+        amet cursus sit amet. Vulputate dignissim suspendisse in est. Eget velit aliquet sagittis id
+        consectetur purus ut faucibus. Libero enim sed faucibus turpis in eu mi bibendum. Elit ut
+        aliquam purus sit amet luctus venenatis. Lectus quam id leo in vitae. Nisl suscipit
+        adipiscing bibendum est ultricies integer quis auctor. Orci eu lobortis elementum nibh tellus.
+        Sed euismod nisi porta lorem. Massa massa ultricies mi quis hendrerit dolor magna.
+        Sollicitudin nibh sit amet commodo nulla facilisi. Rhoncus mattis rhoncus urna neque viverra
+        justo. Nullam non nisi est sit amet facilisis magna. In nisl nisi scelerisque eu ultrices vitae
+        auctor eu.</string>
+
+    <string name="mentor">Mentor</string>
+    <string name="mentor_description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
+        do eiusmod tempor incididunt ut labore et dolore magna aliqua. Cum sociis natoque penatibus
+        et magnis dis parturient montes. Ultrices neque ornare aenean euismod elementum nisi quis.
+        Faucibus scelerisque eleifend donec pretium vulputate sapien nec. Libero justo laoreet sit
+        amet cursus sit amet. Vulputate dignissim suspendisse in est. Eget velit aliquet sagittis id
+        consectetur purus ut faucibus. Libero enim sed faucibus turpis in eu mi bibendum. Elit ut
+        aliquam purus sit amet luctus venenatis. Lectus quam id leo in vitae. Nisl suscipit
+        adipiscing bibendum est ultricies integer quis auctor. Orci eu lobortis elementum nibh tellus.
+        Sed euismod nisi porta lorem. Massa massa ultricies mi quis hendrerit dolor magna.
+        Sollicitudin nibh sit amet commodo nulla facilisi. Rhoncus mattis rhoncus urna neque viverra
+        justo. Nullam non nisi est sit amet facilisis magna. In nisl nisi scelerisque eu ultrices vitae
+        auctor eu.</string>
+
+    <string name="gestion_mantenimiento">Gestión de Mantenimiento</string>
+    <string name="gestion_mantenimiento_description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
+        do eiusmod tempor incididunt ut labore et dolore magna aliqua. Cum sociis natoque penatibus
+        et magnis dis parturient montes. Ultrices neque ornare aenean euismod elementum nisi quis.
+        Faucibus scelerisque eleifend donec pretium vulputate sapien nec. Libero justo laoreet sit
+        amet cursus sit amet. Vulputate dignissim suspendisse in est. Eget velit aliquet sagittis id
+        consectetur purus ut faucibus. Libero enim sed faucibus turpis in eu mi bibendum. Elit ut
+        aliquam purus sit amet luctus venenatis. Lectus quam id leo in vitae. Nisl suscipit
+        adipiscing bibendum est ultricies integer quis auctor. Orci eu lobortis elementum nibh tellus.
+        Sed euismod nisi porta lorem. Massa massa ultricies mi quis hendrerit dolor magna.
+        Sollicitudin nibh sit amet commodo nulla facilisi. Rhoncus mattis rhoncus urna neque viverra
+        justo. Nullam non nisi est sit amet facilisis magna. In nisl nisi scelerisque eu ultrices vitae
+        auctor eu.</string>
+
+    <string name="seguridad_inf">Suit de Seguridad Informática</string>
+    <string name="seguridad_inf_description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
+        do eiusmod tempor incididunt ut labore et dolore magna aliqua. Cum sociis natoque penatibus
+        et magnis dis parturient montes. Ultrices neque ornare aenean euismod elementum nisi quis.
+        Faucibus scelerisque eleifend donec pretium vulputate sapien nec. Libero justo laoreet sit
+        amet cursus sit amet. Vulputate dignissim suspendisse in est. Eget velit aliquet sagittis id
+        consectetur purus ut faucibus. Libero enim sed faucibus turpis in eu mi bibendum. Elit ut
+        aliquam purus sit amet luctus venenatis. Lectus quam id leo in vitae. Nisl suscipit
+        adipiscing bibendum est ultricies integer quis auctor. Orci eu lobortis elementum nibh tellus.
+        Sed euismod nisi porta lorem. Massa massa ultricies mi quis hendrerit dolor magna.
+        Sollicitudin nibh sit amet commodo nulla facilisi. Rhoncus mattis rhoncus urna neque viverra
+        justo. Nullam non nisi est sit amet facilisis magna. In nisl nisi scelerisque eu ultrices vitae
+        auctor eu.</string>
+
+    <string name="versige">Versige</string>
+    <string name="versige_description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
+        do eiusmod tempor incididunt ut labore et dolore magna aliqua. Cum sociis natoque penatibus
+        et magnis dis parturient montes. Ultrices neque ornare aenean euismod elementum nisi quis.
+        Faucibus scelerisque eleifend donec pretium vulputate sapien nec. Libero justo laoreet sit
+        amet cursus sit amet. Vulputate dignissim suspendisse in est. Eget velit aliquet sagittis id
+        consectetur purus ut faucibus. Libero enim sed faucibus turpis in eu mi bibendum. Elit ut
+        aliquam purus sit amet luctus venenatis. Lectus quam id leo in vitae. Nisl suscipit
+        adipiscing bibendum est ultricies integer quis auctor. Orci eu lobortis elementum nibh tellus.
+        Sed euismod nisi porta lorem. Massa massa ultricies mi quis hendrerit dolor magna.
+        Sollicitudin nibh sit amet commodo nulla facilisi. Rhoncus mattis rhoncus urna neque viverra
+        justo. Nullam non nisi est sit amet facilisis magna. In nisl nisi scelerisque eu ultrices vitae
+        auctor eu.</string>
+
+    <string name="fastos">Fastos</string>
+    <string name="fastos_description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
+        do eiusmod tempor incididunt ut labore et dolore magna aliqua. Cum sociis natoque penatibus
+        et magnis dis parturient montes. Ultrices neque ornare aenean euismod elementum nisi quis.
+        Faucibus scelerisque eleifend donec pretium vulputate sapien nec. Libero justo laoreet sit
+        amet cursus sit amet. Vulputate dignissim suspendisse in est. Eget velit aliquet sagittis id
+        consectetur purus ut faucibus. Libero enim sed faucibus turpis in eu mi bibendum. Elit ut
+        aliquam purus sit amet luctus venenatis. Lectus quam id leo in vitae. Nisl suscipit
+        adipiscing bibendum est ultricies integer quis auctor. Orci eu lobortis elementum nibh tellus.
+        Sed euismod nisi porta lorem. Massa massa ultricies mi quis hendrerit dolor magna.
+        Sollicitudin nibh sit amet commodo nulla facilisi. Rhoncus mattis rhoncus urna neque viverra
+        justo. Nullam non nisi est sit amet facilisis magna. In nisl nisi scelerisque eu ultrices vitae
+        auctor eu.</string>
+
+    <string name="siscoh">SiSCOH</string>
+    <string name="siscoh_description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
+        do eiusmod tempor incididunt ut labore et dolore magna aliqua. Cum sociis natoque penatibus
+        et magnis dis parturient montes. Ultrices neque ornare aenean euismod elementum nisi quis.
+        Faucibus scelerisque eleifend donec pretium vulputate sapien nec. Libero justo laoreet sit
+        amet cursus sit amet. Vulputate dignissim suspendisse in est. Eget velit aliquet sagittis id
+        consectetur purus ut faucibus. Libero enim sed faucibus turpis in eu mi bibendum. Elit ut
+        aliquam purus sit amet luctus venenatis. Lectus quam id leo in vitae. Nisl suscipit
+        adipiscing bibendum est ultricies integer quis auctor. Orci eu lobortis elementum nibh tellus.
+        Sed euismod nisi porta lorem. Massa massa ultricies mi quis hendrerit dolor magna.
+        Sollicitudin nibh sit amet commodo nulla facilisi. Rhoncus mattis rhoncus urna neque viverra
+        justo. Nullam non nisi est sit amet facilisis magna. In nisl nisi scelerisque eu ultrices vitae
+        auctor eu.</string>
+
+    <string name="versat">Utilitarios del Versat</string>
+    <string name="versat_description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
+        do eiusmod tempor incididunt ut labore et dolore magna aliqua. Cum sociis natoque penatibus
+        et magnis dis parturient montes. Ultrices neque ornare aenean euismod elementum nisi quis.
+        Faucibus scelerisque eleifend donec pretium vulputate sapien nec. Libero justo laoreet sit
+        amet cursus sit amet. Vulputate dignissim suspendisse in est. Eget velit aliquet sagittis id
+        consectetur purus ut faucibus. Libero enim sed faucibus turpis in eu mi bibendum. Elit ut
+        aliquam purus sit amet luctus venenatis. Lectus quam id leo in vitae. Nisl suscipit
+        adipiscing bibendum est ultricies integer quis auctor. Orci eu lobortis elementum nibh tellus.
+        Sed euismod nisi porta lorem. Massa massa ultricies mi quis hendrerit dolor magna.
+        Sollicitudin nibh sit amet commodo nulla facilisi. Rhoncus mattis rhoncus urna neque viverra
+        justo. Nullam non nisi est sit amet facilisis magna. In nisl nisi scelerisque eu ultrices vitae
+        auctor eu.</string>
+    <string name="productos">Productos</string>
+
+    <string-array name="products_array">
+        <item>energux</item>
+        <item>cheqcon</item>
+        <item>agenda_express</item>
+        <item>mentor</item>
+        <item>gestion_mantenimiento</item>
+        <item>seguridad_inf</item>
+        <item>versige</item>
+        <item>fastos</item>
+        <item>siscoh</item>
+        <item>versat</item>
+    </string-array>
+
+    <string-array name="services_array">
+        <item>
+        Consultoría, Levantamiento, Diseño y Desarrollo a la medida de aplicaciones para la iformatizar y optimizr procesos.
+        </item>
+        <item>Diagnóstico, Instalación, Configuración, Adiestramiento, Operación asistida,
+            Despliegue y personalización de los productos que comercializamos.</item>
+        <item> Diagnóstico de Ciberseguridad, Elaboración e Implementación de Planes de Seguridad Informática, análisis de Logs, Detección de
+        vulnerabilidades.</item>
+        <item>Revisión, capacitación, validación de informaciones.</item>
+        <item>Descontaminación de virus, Asistencia frente a las amenazas de los virus infirmáticos.</item>
+        <item>Cursos, talleres y examenes de suficiencia.</item>
+        <item>Asesoría, Instalación y configuración de servidores, hardware, correo electrónico y redes;actualizaciones de seguridad.</item>
+        <item>Asistencia técnica, Versionado, Soporte aplicaciones, servicios posventa</item>
+    </string-array>
+
+
+</resources>
