@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 /build
+=======
+/build/generated
+/build/intermediates
+/build/kotlin
+/build/tmp
+>>>>>>> 4eeb067 (Generating .apk)
