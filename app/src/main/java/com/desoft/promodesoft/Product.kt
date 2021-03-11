@@ -1,16 +1,21 @@
 package com.desoft.promodesoft
 
+import android.os.Build
 import android.os.Bundle
+import android.text.Html
+import android.text.Spanned
 import android.text.method.ScrollingMovementMethod
 import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import android.widget.TextView
+import androidx.annotation.RequiresApi
 import androidx.fragment.app.setFragmentResultListener
 
 class Product : Fragment() {
 
+    @RequiresApi(Build.VERSION_CODES.N)
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?,
         savedInstanceState: Bundle?
@@ -20,7 +25,7 @@ class Product : Fragment() {
         val ret = inflater.inflate(R.layout.fragment_product, container, false)
 
         setFragmentResultListener("productKey"){
-            requestKey, bundle ->
+            _, bundle ->
             val productChoosen = bundle.getString("productChoosen")
             data class duple (val productName:String, val producDescription:String)
             val printer:duple = when(productChoosen){
@@ -34,15 +39,19 @@ class Product : Fragment() {
                 "fastos" ->                     duple(getString(R.string.fastos), getString(R.string.fastos_description))
                 "siscoh" ->                     duple(getString(R.string.siscoh), getString(R.string.siscoh_description))
                 "acuerdos" ->                   duple(getString(R.string.acuerdos), getString(R.string.acuerdos_description))
+                "uforces" ->                    duple(getString(R.string.uforces), getString(R.string.uforces_description))
+                "pc_inside" ->                  duple(getString(R.string.pc_inside), getString(R.string.pc_inside_description))
                 else ->                         duple(getString(R.string.versat), getString(R.string.versat_description))
                 }
 
+            val styled = Html.fromHtml(printer.producDescription, Html.FROM_HTML_MODE_LEGACY)
             val productNameTextView:TextView = ret.findViewById(R.id.product_name)
             val descriptionTextView:TextView =ret.findViewById(R.id.product_description)
             descriptionTextView.movementMethod = ScrollingMovementMethod()
 
+
             productNameTextView.text = printer.productName
-            descriptionTextView.text = printer.producDescription
+            descriptionTextView.text = styled
         }
 
         return ret
