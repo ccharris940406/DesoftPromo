@@ -19,23 +19,25 @@
             android:layout_height="150dp"
             android:layout_alignParentTop="true"
             android:scaleType="centerInside"
-            android:src="@drawable/desoft_logo" />
+            android:src="@drawable/desoft_logo"
+            android:contentDescription="@string/logo_descriptio" />
 
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:layout_alignParentTop="true"
-            android:layout_toRightOf="@id/logo_iv"
+            android:layout_toEndOf="@id/logo_iv"
             android:gravity="center"
             android:orientation="vertical">
 
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="desoft"
+                android:text="@string/desoft"
                 android:textAlignment="center"
                 android:textColor="@color/company_primary"
-                android:textSize="70sp" />
+                android:textSize="70dp"
+                tools:ignore="SpUsage" />
 
             <TextView
                 android:layout_width="match_parent"
@@ -45,12 +47,13 @@
                 android:textAlignment="center"
                 android:textAllCaps="true"
                 android:textColor="@color/company_secudary"
-                android:textSize="15sp" />
+                android:textSize="15dp"
+                tools:ignore="SpUsage" />
         </LinearLayout>
 
     </RelativeLayout>
 
-    <fragment android:layout_weight="2"
+    <androidx.fragment.app.FragmentContainerView android:layout_weight="2"
         android:layout_margin="16dp"
         android:id="@+id/nav_host_fragment"
         android:name="androidx.navigation.fragment.NavHostFragment"
@@ -66,7 +69,7 @@
         android:textSize="10sp"
         android:textAlignment="center"
         android:textColor="@color/company_primary"
-        android:text="Desoft © 2021 Todos los derechos reservados."
-        />
+        android:text="@string/copy_rigth"
+        tools:ignore="SmallSp" />
 
 </LinearLayout>

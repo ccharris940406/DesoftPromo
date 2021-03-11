@@ -122,21 +122,17 @@ internos y lograr el éxito en el cumplimiento de sus metas.</string>
         auctor eu.</string>
 
     <string name="siscoh">SiSCOH</string>
-    <string name="siscoh_description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-        do eiusmod tempor incididunt ut labore et dolore magna aliqua. Cum sociis natoque penatibus
-        et magnis dis parturient montes. Ultrices neque ornare aenean euismod elementum nisi quis.
-        Faucibus scelerisque eleifend donec pretium vulputate sapien nec. Libero justo laoreet sit
-        amet cursus sit amet. Vulputate dignissim suspendisse in est. Eget velit aliquet sagittis id
-        consectetur purus ut faucibus. Libero enim sed faucibus turpis in eu mi bibendum. Elit ut
-        aliquam purus sit amet luctus venenatis. Lectus quam id leo in vitae. Nisl suscipit
-        adipiscing bibendum est ultricies integer quis auctor. Orci eu lobortis elementum nibh tellus.
-        Sed euismod nisi porta lorem. Massa massa ultricies mi quis hendrerit dolor magna.
-        Sollicitudin nibh sit amet commodo nulla facilisi. Rhoncus mattis rhoncus urna neque viverra
-        justo. Nullam non nisi est sit amet facilisis magna. In nisl nisi scelerisque eu ultrices vitae
-        auctor eu.</string>
+    <string name="siscoh_description">Sistema para la getión de costos hospitalarios. Gestionar consumo
+    de materiales (HT1). Gestionar salario y contribuciones (HT2). Gestionar servicios y estipendio (HT3),
+    Gestionar distrubución de costos indirectos (HT4). Registro de costo (HT5). Gestionar costos totales. </string>
 
     <string name="versat">Utilitarios del Versat</string>
-    <string name="versat_description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
+    <string name="versat_description">Generador de reportes complementarios a los que se obtienen
+        del Versat, correspondientes a las actividades: Contabilidad, Fianzas, Activos Fijos, Inventarios,
+        Nóminas y Movimentos de compras.</string>
+
+    <string name="acuerdos">Acuerdos</string>
+    <string name="acuerdos_description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
         do eiusmod tempor incididunt ut labore et dolore magna aliqua. Cum sociis natoque penatibus
         et magnis dis parturient montes. Ultrices neque ornare aenean euismod elementum nisi quis.
         Faucibus scelerisque eleifend donec pretium vulputate sapien nec. Libero justo laoreet sit
@@ -148,16 +144,22 @@ internos y lograr el éxito en el cumplimiento de sus metas.</string>
         Sollicitudin nibh sit amet commodo nulla facilisi. Rhoncus mattis rhoncus urna neque viverra
         justo. Nullam non nisi est sit amet facilisis magna. In nisl nisi scelerisque eu ultrices vitae
         auctor eu.</string>
+
     <string name="productos">Productos</string>
+    <string name="desoft">desoft</string>
+    <string name="copy_rigth">Desoft © 2021 Todos los derechos reservados.</string>
+    <string name="logo_descriptio">Logo de desoft</string>
+
 
     <string-array name="products_array">
-        <item>energux</item>
-        <item>cheqcon</item>
         <item>agenda_express</item>
+        <item>acuerdos</item>
+        <item>versige</item>
+        <item>energux</item>
         <item>mentor</item>
+        <item>cheqcon</item>
         <item>gestion_mantenimiento</item>
         <item>seguridad_inf</item>
-        <item>versige</item>
         <item>fastos</item>
         <item>siscoh</item>
         <item>versat</item>
