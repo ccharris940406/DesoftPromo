@@ -4,15 +4,12 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".Productos">
-    <ScrollView
+
+    <androidx.recyclerview.widget.RecyclerView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:scrollbars="none">
-        <LinearLayout
-            android:orientation="vertical"
-            android:id="@+id/main_view"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"/>
-    </ScrollView>
+        android:id="@+id/productos_list">
+        
+    </androidx.recyclerview.widget.RecyclerView>
 
 </FrameLayout>

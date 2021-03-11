@@ -33,6 +33,7 @@ class Product : Fragment() {
                 "versige" ->                    duple(getString(R.string.versige), getString(R.string.versige_description))
                 "fastos" ->                     duple(getString(R.string.fastos), getString(R.string.fastos_description))
                 "siscoh" ->                     duple(getString(R.string.siscoh), getString(R.string.siscoh_description))
+                "acuerdos" ->                   duple(getString(R.string.acuerdos), getString(R.string.acuerdos_description))
                 else ->                         duple(getString(R.string.versat), getString(R.string.versat_description))
                 }
 
