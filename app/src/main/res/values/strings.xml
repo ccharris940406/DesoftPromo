@@ -38,88 +38,48 @@ internos y lograr el éxito en el cumplimiento de sus metas.</string>
     períodos, debilitados y cancelados, registro de cancelaciones, de Solicitud de pago, Acta de flujo de caja.</string>
 
     <string name="agenda_express">Agenda Express</string>
-    <string name="agenda_description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-        do eiusmod tempor incididunt ut labore et dolore magna aliqua. Cum sociis natoque penatibus
-        et magnis dis parturient montes. Ultrices neque ornare aenean euismod elementum nisi quis.
-        Faucibus scelerisque eleifend donec pretium vulputate sapien nec. Libero justo laoreet sit
-        amet cursus sit amet. Vulputate dignissim suspendisse in est. Eget velit aliquet sagittis id
-        consectetur purus ut faucibus. Libero enim sed faucibus turpis in eu mi bibendum. Elit ut
-        aliquam purus sit amet luctus venenatis. Lectus quam id leo in vitae. Nisl suscipit
-        adipiscing bibendum est ultricies integer quis auctor. Orci eu lobortis elementum nibh tellus.
-        Sed euismod nisi porta lorem. Massa massa ultricies mi quis hendrerit dolor magna.
-        Sollicitudin nibh sit amet commodo nulla facilisi. Rhoncus mattis rhoncus urna neque viverra
-        justo. Nullam non nisi est sit amet facilisis magna. In nisl nisi scelerisque eu ultrices vitae
-        auctor eu.</string>
+    <string name="agenda_description">Sistema web, desarrollado sobre tecnologías libres, que permite
+        gestionar la planificación de las actividades laborales (plan de trabajo). Basado en los
+        fundamentos de la Instrucción 1/2012 para la planificación de los objetivos y actividades
+        en las entidades, órganos y organismos cubanos. Certificado de Inscripción en el Ministerio
+        de las Comunicaciones.</string>
 
     <string name="mentor">Mentor</string>
-    <string name="mentor_description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-        do eiusmod tempor incididunt ut labore et dolore magna aliqua. Cum sociis natoque penatibus
-        et magnis dis parturient montes. Ultrices neque ornare aenean euismod elementum nisi quis.
-        Faucibus scelerisque eleifend donec pretium vulputate sapien nec. Libero justo laoreet sit
-        amet cursus sit amet. Vulputate dignissim suspendisse in est. Eget velit aliquet sagittis id
-        consectetur purus ut faucibus. Libero enim sed faucibus turpis in eu mi bibendum. Elit ut
-        aliquam purus sit amet luctus venenatis. Lectus quam id leo in vitae. Nisl suscipit
-        adipiscing bibendum est ultricies integer quis auctor. Orci eu lobortis elementum nibh tellus.
-        Sed euismod nisi porta lorem. Massa massa ultricies mi quis hendrerit dolor magna.
-        Sollicitudin nibh sit amet commodo nulla facilisi. Rhoncus mattis rhoncus urna neque viverra
-        justo. Nullam non nisi est sit amet facilisis magna. In nisl nisi scelerisque eu ultrices vitae
-        auctor eu.</string>
+    <string name="mentor_description">Sistema Web, desarrollado sobre las tecnologías libres, que
+        permite gestionar las relaciones contractuales con Clientes y Proveedores. Basado en los
+        fundamentos de los Decreto Ley No. 304 y del decreto 310 del 2012 de la Contratación económica.
+        Certificado de Inscripción en el Ministerio de las Comunicaciones.</string>
 
     <string name="gestion_mantenimiento">Gestión de Mantenimiento</string>
-    <string name="gestion_mantenimiento_description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-        do eiusmod tempor incididunt ut labore et dolore magna aliqua. Cum sociis natoque penatibus
-        et magnis dis parturient montes. Ultrices neque ornare aenean euismod elementum nisi quis.
-        Faucibus scelerisque eleifend donec pretium vulputate sapien nec. Libero justo laoreet sit
-        amet cursus sit amet. Vulputate dignissim suspendisse in est. Eget velit aliquet sagittis id
-        consectetur purus ut faucibus. Libero enim sed faucibus turpis in eu mi bibendum. Elit ut
-        aliquam purus sit amet luctus venenatis. Lectus quam id leo in vitae. Nisl suscipit
-        adipiscing bibendum est ultricies integer quis auctor. Orci eu lobortis elementum nibh tellus.
-        Sed euismod nisi porta lorem. Massa massa ultricies mi quis hendrerit dolor magna.
-        Sollicitudin nibh sit amet commodo nulla facilisi. Rhoncus mattis rhoncus urna neque viverra
-        justo. Nullam non nisi est sit amet facilisis magna. In nisl nisi scelerisque eu ultrices vitae
-        auctor eu.</string>
+    <string name="gestion_mantenimiento_description">Sistema para la gestión y administración
+        de la actividad de mantenimiento preventivo(Calendario y/o Metrado) e imprevisto de
+        cualquier objeto al cual se le pueda aplicar dicha actividad, dentro de los objetos se
+        encuentran los equipos, etc. Permite el diseño, elaboración, seguimiento y control de los
+        Planes de Mantenimiento: por lo cual es necesario definir los que se ejecutarán por la
+        variable al programar el mismo y que pueden ser por (días, semanas meses, años) y/o por
+        (Kms, horas).</string>
 
     <string name="seguridad_inf">Suit de Seguridad Informática</string>
-    <string name="seguridad_inf_description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-        do eiusmod tempor incididunt ut labore et dolore magna aliqua. Cum sociis natoque penatibus
-        et magnis dis parturient montes. Ultrices neque ornare aenean euismod elementum nisi quis.
-        Faucibus scelerisque eleifend donec pretium vulputate sapien nec. Libero justo laoreet sit
-        amet cursus sit amet. Vulputate dignissim suspendisse in est. Eget velit aliquet sagittis id
-        consectetur purus ut faucibus. Libero enim sed faucibus turpis in eu mi bibendum. Elit ut
-        aliquam purus sit amet luctus venenatis. Lectus quam id leo in vitae. Nisl suscipit
-        adipiscing bibendum est ultricies integer quis auctor. Orci eu lobortis elementum nibh tellus.
-        Sed euismod nisi porta lorem. Massa massa ultricies mi quis hendrerit dolor magna.
-        Sollicitudin nibh sit amet commodo nulla facilisi. Rhoncus mattis rhoncus urna neque viverra
-        justo. Nullam non nisi est sit amet facilisis magna. In nisl nisi scelerisque eu ultrices vitae
-        auctor eu.</string>
-
+    <string name="seguridad_inf_description">Sistema que permite gestionar y controlar toda la
+        información de los medios informáticos que se encuentren conectados a la red de la entidad,
+        así como los servicios de telemáticos y las tareas de Seguridad Informática
+        (registro del Hardware, software y datos de Red); constituyendo un poderoso aliado
+        para los responsables de Seguridad Informática. Aporta un control total y seguridad sobre
+        la alteración de componentes informáticos.</string>
+a
     <string name="versige">Versige</string>
-    <string name="versige_description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-        do eiusmod tempor incididunt ut labore et dolore magna aliqua. Cum sociis natoque penatibus
-        et magnis dis parturient montes. Ultrices neque ornare aenean euismod elementum nisi quis.
-        Faucibus scelerisque eleifend donec pretium vulputate sapien nec. Libero justo laoreet sit
-        amet cursus sit amet. Vulputate dignissim suspendisse in est. Eget velit aliquet sagittis id
-        consectetur purus ut faucibus. Libero enim sed faucibus turpis in eu mi bibendum. Elit ut
-        aliquam purus sit amet luctus venenatis. Lectus quam id leo in vitae. Nisl suscipit
-        adipiscing bibendum est ultricies integer quis auctor. Orci eu lobortis elementum nibh tellus.
-        Sed euismod nisi porta lorem. Massa massa ultricies mi quis hendrerit dolor magna.
-        Sollicitudin nibh sit amet commodo nulla facilisi. Rhoncus mattis rhoncus urna neque viverra
-        justo. Nullam non nisi est sit amet facilisis magna. In nisl nisi scelerisque eu ultrices vitae
-        auctor eu.</string>
+    <string name="versige_description">Sistema que recibe como entrada un conjunto de modelos que
+        conformados los Estados Financieros (EFE), y arroja como salida diferentes ficheros XML
+        referentes a cada uno; ficheros a ser importados en el sistema SIGELITE empleado en la Oficina
+        de Estadísticas e Información(ONEI). Agilizando el proceso de la información de los EFE.</string>
 
     <string name="fastos">Fastos</string>
-    <string name="fastos_description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-        do eiusmod tempor incididunt ut labore et dolore magna aliqua. Cum sociis natoque penatibus
-        et magnis dis parturient montes. Ultrices neque ornare aenean euismod elementum nisi quis.
-        Faucibus scelerisque eleifend donec pretium vulputate sapien nec. Libero justo laoreet sit
-        amet cursus sit amet. Vulputate dignissim suspendisse in est. Eget velit aliquet sagittis id
-        consectetur purus ut faucibus. Libero enim sed faucibus turpis in eu mi bibendum. Elit ut
-        aliquam purus sit amet luctus venenatis. Lectus quam id leo in vitae. Nisl suscipit
-        adipiscing bibendum est ultricies integer quis auctor. Orci eu lobortis elementum nibh tellus.
-        Sed euismod nisi porta lorem. Massa massa ultricies mi quis hendrerit dolor magna.
-        Sollicitudin nibh sit amet commodo nulla facilisi. Rhoncus mattis rhoncus urna neque viverra
-        justo. Nullam non nisi est sit amet facilisis magna. In nisl nisi scelerisque eu ultrices vitae
-        auctor eu.</string>
+    <string name="fastos_description">Solución integral para Recursos Humanos que automatiza las
+        informaciones básicas del Expediente Laboral y permite realizar el control de procesos y
+        operaciones inherentes al área de Recursos Humanos a través de los Módulos: Reclutamientos y
+        selección, Contratación, Evaluación, Gestión de asistencia y ausencias , Nóminas, Capacitación,
+        Seguridad y Salud, y Pago por resultados. Facilita la gestión de los modelos solicitados por el
+        Ministerio de Trabajo y Seguridad Social(MTSS).</string>
 
     <string name="siscoh">SiSCOH</string>
     <string name="siscoh_description">Sistema para la getión de costos hospitalarios. Gestionar consumo
@@ -132,18 +92,52 @@ internos y lograr el éxito en el cumplimiento de sus metas.</string>
         Nóminas y Movimentos de compras.</string>
 
     <string name="acuerdos">Acuerdos</string>
-    <string name="acuerdos_description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-        do eiusmod tempor incididunt ut labore et dolore magna aliqua. Cum sociis natoque penatibus
-        et magnis dis parturient montes. Ultrices neque ornare aenean euismod elementum nisi quis.
-        Faucibus scelerisque eleifend donec pretium vulputate sapien nec. Libero justo laoreet sit
-        amet cursus sit amet. Vulputate dignissim suspendisse in est. Eget velit aliquet sagittis id
-        consectetur purus ut faucibus. Libero enim sed faucibus turpis in eu mi bibendum. Elit ut
-        aliquam purus sit amet luctus venenatis. Lectus quam id leo in vitae. Nisl suscipit
-        adipiscing bibendum est ultricies integer quis auctor. Orci eu lobortis elementum nibh tellus.
-        Sed euismod nisi porta lorem. Massa massa ultricies mi quis hendrerit dolor magna.
-        Sollicitudin nibh sit amet commodo nulla facilisi. Rhoncus mattis rhoncus urna neque viverra
-        justo. Nullam non nisi est sit amet facilisis magna. In nisl nisi scelerisque eu ultrices vitae
-        auctor eu.</string>
+    <string name="acuerdos_description">
+        Sistema web, desarrollado sobre tecnologías libres, que permite gestionar los Acuerdos
+        tomados en las reuniones y las tareas que tributan a su cumplimiento. Además, de gestionar
+        la emisión de Indicaciones de los directivos de las entidades. Está alineado al Decreto Ley
+        No. 257 del 2007 “De los Consejos de Dirección de los Organismos de la Administración
+        Central del Estado”. Certificado de Inscripción en el Ministerio de las Comunicaciones.\n\n
+        Principales funcionalidades:\n
+        </string>
+
+    <string name="uforces">UForces</string>
+    <string name="uforces_description">Solución web, desarrollada sobre tecnologías libres que
+        permite gestionar la Fuerza de Trabajo Calificada.
+        &lt;br/> &lt;br/>
+        &lt;b>Principales funcionalidades:&lt;/b>
+        &lt;ul>
+            &lt;li> Integración con el &lt;b>GeFORZA&lt;/b>, para importar y exportar información
+                (empleados, carreras, ramas de la ciencia) en ambos sentidos.&lt;/li>
+            &lt;li> Actualizar los datos relacionados con la gestión de la fuerza de trabajo
+                calificada de manera automática, tanto la existencia y la fluctuación laboral de los
+                empleados, desde un servidor externo donde se gestionen los procesos de Recursos
+                Humanos (RH), ya sea utilizando los sistemas Fastos o Rodas, y en caso de no existir
+                un sistema automatizado para la gestión de RH permite la actualización a través de una
+                plantilla en formato .XLS.&lt;/li>
+            &lt;li> Exportar la información de los empleados al GeFORZA.&lt;/li>
+            &lt;li> Tablero resumen de las informaciones, a modo de información para los usuarios.&lt;/li>
+        &lt;/ul></string>
+
+    <string name="pc_inside">PC-Inside</string>
+    <string name="pc_inside_description"> Sistema web, desarrollado sobre tecnologías libres, que
+        permite gestionar y gestionar la información de los medios de cómputo (y sus componentes)
+        conectados a la red de la empresa. Obteniendo la información desde el OCS-Inventory mediante
+        una constante sincronización de la información. Además, cuenta con varias funcionalidades para
+        la gestión de la información en el departamento de Informática de una empresa.
+        &lt;br/> &lt;br/>
+        &lt;b>Principales funcionalidades:&lt;/b>
+        &lt;ul>
+            &lt;li> Gestionar la información de las computadoras (Ejemplos: Sistema Operativo,
+            Placa base, Microprocesador, RAM, Almacenamiento, Tarjetas, RED y otras) y dispositivos
+            (Ejemplos: Monitor, De entrada, Modem e Impresoras).&lt;/li>
+            &lt;li> Gestionar los movimientos de las computadoras y sus dispositivos.&lt;/li>
+            &lt;li> Generar un código QR (Con la información de &lt;b>Nombre, Asignado a, Local y Número
+        de Inventario&lt;/b>) de la computadora (Unidad central y sus principales periféricos) para imprimir
+        y pegar, de forma que permita realizar un inventario.&lt;/li>
+            &lt;li> Gestionar plan de auditorías.&lt;/li>
+        &lt;/ul>
+    </string>
 
     <string name="productos">Productos</string>
     <string name="desoft">desoft</string>
@@ -157,6 +151,8 @@ internos y lograr el éxito en el cumplimiento de sus metas.</string>
         <item>versige</item>
         <item>energux</item>
         <item>mentor</item>
+        <item>uforces</item>
+        <item>pc_inside</item>
         <item>cheqcon</item>
         <item>gestion_mantenimiento</item>
         <item>seguridad_inf</item>

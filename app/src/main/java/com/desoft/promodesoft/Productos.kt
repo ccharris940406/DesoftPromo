@@ -37,6 +37,8 @@ class Productos : Fragment() {
                 "fastos" -> getString(R.string.fastos)
                 "siscoh" -> getString(R.string.siscoh)
                 "acuerdos" -> getString(R.string.acuerdos)
+                "pc_inside" -> getString(R.string.pc_inside)
+                "uforces" -> getString(R.string.uforces)
                 else -> getString(R.string.versat)
             }
 
