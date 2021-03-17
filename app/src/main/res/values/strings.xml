@@ -143,6 +143,11 @@ a
     <string name="desoft">desoft</string>
     <string name="copy_rigth">Desoft © 2021 Todos los derechos reservados.</string>
     <string name="logo_descriptio">Logo de desoft</string>
+    <string name="part_dir">Carretera Central #24 esq. Martí, Holguín, Cuba</string>
+    <string name="_5324473046">+5324473046</string>
+    <string name="_5324468152">+5324468152</string>
+    <string name="email">comercial.holguin@desoft.cu</string>
+    <string name="web_site">www.desoft.cu</string>
 
 
     <string-array name="products_array">
