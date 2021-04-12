@@ -148,17 +148,17 @@ a
     <string-array name="products_array">
         <item>agenda_express</item>
         <item>acuerdos</item>
-        <item>versige</item>
-        <item>energux</item>
         <item>mentor</item>
-        <item>uforces</item>
         <item>pc_inside</item>
+        <item>uforces</item>
+        <item>versige</item>
         <item>cheqcon</item>
+        <item>fastos</item>
+        <item>versat</item>
+        <item>energux</item>
         <item>gestion_mantenimiento</item>
         <item>seguridad_inf</item>
-        <item>fastos</item>
         <item>siscoh</item>
-        <item>versat</item>
     </string-array>
 
     <string-array name="services_array">
