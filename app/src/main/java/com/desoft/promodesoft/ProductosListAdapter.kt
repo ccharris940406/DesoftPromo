@@ -6,7 +6,6 @@ import android.view.ViewGroup
 import android.widget.Button
 import androidx.core.os.bundleOf
 import androidx.fragment.app.setFragmentResult
-import androidx.navigation.Navigation
 import androidx.navigation.findNavController
 import androidx.recyclerview.widget.RecyclerView
 
@@ -16,8 +15,7 @@ class ProductosListAdapter(private val dataSet: Array<String?>,
     : RecyclerView.Adapter<ProductosListAdapter.ViewHolder>() {
 
      class ViewHolder(view: View): RecyclerView.ViewHolder(view) {
-            val productButton: Button = view.findViewById(R.id.product_item_list)
-
+         val productButton: Button = view.findViewById(R.id.product_item_list)
     }
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): ViewHolder {

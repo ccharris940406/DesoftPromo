@@ -46,6 +46,8 @@ class Productos : Fragment() {
             recyclerView.layoutManager = LinearLayoutManager(ret.context)
             recyclerView.adapter = ProductosListAdapter(dataSet, productos,this)
             }
+
+
         return ret
     }
 }

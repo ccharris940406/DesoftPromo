@@ -13,7 +13,7 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Contáctenos:"
+            android:text="@string/cont_ctenos"
             android:layout_marginBottom="5dp"
             android:textAlignment="center"
             android:textSize="40sp"/>
@@ -56,7 +56,7 @@
                         android:textColor="@color/white"
                         android:textAlignment="textEnd"
                         android:padding="8dp"
-                        android:text="Carretera Cestral #24 esq. Martí, Holguín, Cuba"/>
+                        android:text="@string/carretera_central_24_esq_mart_holgu_n_cuba"/>
                 </LinearLayout>
 
                 <LinearLayout
@@ -84,7 +84,7 @@
                             android:textColor="@color/white"
                             android:textAlignment="center"
                             android:padding="8dp"
-                            android:text="+5324473046"/>
+                            android:text="@string/_5324473046"/>
 
                         <TextView
                             android:layout_width="match_parent"
@@ -93,7 +93,7 @@
                             android:textColor="@color/white"
                             android:textAlignment="center"
                             android:padding="8dp"
-                            android:text="+5324468152"/>
+                            android:text="@string/_5324468152"/>
                     </LinearLayout>
                 </LinearLayout>
 
@@ -118,7 +118,7 @@
                         android:textColor="@color/white"
                         android:textAlignment="textEnd"
                         android:padding="8dp"
-                        android:text="comercial.holguin@desoft.cu"/>
+                        android:text="@string/comercial_email"/>
                 </LinearLayout>
 
                 <LinearLayout
@@ -142,7 +142,7 @@
                         android:textColor="@color/white"
                         android:textAlignment="textEnd"
                         android:padding="8dp"
-                        android:text="www.desoft.cu"/>
+                        android:text="@string/www_desoft_cu"/>
                 </LinearLayout>
 
             </LinearLayout>

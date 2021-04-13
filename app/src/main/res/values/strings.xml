@@ -43,12 +43,50 @@ internos y lograr el éxito en el cumplimiento de sus metas.</string>
         fundamentos de la Instrucción 1/2012 para la planificación de los objetivos y actividades
         en las entidades, órganos y organismos cubanos. Certificado de Inscripción en el Ministerio
         de las Comunicaciones.</string>
+    <string-array name="agenda_func">
+        <item>Gestionar la planificación anual - mensual de la entidad y sus grupos organizativos.</item>
+        <item>Gestionar la planificación individual.</item>
+        <item>Validar la Concurrencia en fechas de las tareas.</item>
+        <item>Asignar tareas a los diferentes niveles, comenzando con la planificación a nivel de entidad, luego de grupos y concluye con las tareas individuales.</item>
+        <item>Notificar mediante correo electrónico a los implicados en tareas nuevas y modificadas.</item>
+        <item>Notificar mediante correo electrónico o cartel informativo, cuanto se cumpla el tiempo definido para que le recuerde la tarea.</item>
+        <item>Planificar tareas con periodicidad, ejemplo, todos los Martes a las 08:00AM, cada 3 meses hasta el 31/12/2020.</item>
+        <item>Gestionar Categorías, Objetivos y Lineamientos.</item>
+        <item>Migrar tareas de un año para el próximo.</item>
+        <item>Asignar las tareas a un nuevo empleado, cuando es asignado a un grupo existente.</item>
+        <item>Conformar la jerarquía subordinada de los empleados.</item>
+        <item>Gestionar el estado de las tareas y su cumplimiento.</item>
+        <item>Opciones de Configuración para especificar formas de mostrar los reportes y bondades para flexibilizar la asignación de los miembros de la tarea.</item>
+        <item>Permitir acceder a las tareas de forma directa, mediante la funcionalidad Mi lista de tareas.</item>
+        <item>Sincronizar la planificación de las tareas en su dispositivo móvil con Android, utilizando la conexión wifi o datos móviles, mediante la APK que se distribuye con el sistema.</item>
+        <item>Integración al Sistema de Capital Humano, para importar los empleados y locales de la entidad.</item>
+        <item>Integración al servidor de dominio para la autenticación del usuario.</item>
+        <item>Integración al servidor de correo, para las notificaciones de las tareas.</item>
+    </string-array>
 
     <string name="mentor">Mentor</string>
     <string name="mentor_description">Sistema Web, desarrollado sobre las tecnologías libres, que
         permite gestionar las relaciones contractuales con Clientes y Proveedores. Basado en los
         fundamentos de los Decreto Ley No. 304 y del decreto 310 del 2012 de la Contratación económica.
         Certificado de Inscripción en el Ministerio de las Comunicaciones.</string>
+    <string-array name="mentor_func">
+        <item>Gestionar la información de los Clientes y Proveedores, con la información necesaria para generar los contratos (Ejemplo: código REEUP, NIT, dirección, nombramiento de la entidad y de su representante para la contratación).</item>
+        <item>Gestionar los contratos con Clientes y Proveedores.</item>
+        <item>Filtros y agrupaciones asociados a los tipos de contratos, estado, término y método de pago, departamento relacionado, fecha de inicio y fin, importe facturado, cliente/proveedor, objeto, número y otros datos del contrato.</item>
+        <item>Exportar la información (general y específica según los filtros) de los contratos en formato editable Microsoft Excel (.xlsx).</item>
+        <item>Gestionar productos y servicios de los contratos.</item>
+        <item>Tablero informativo según la cantidad de contratos, facturación por meses, contratos próximos a vencerse por tiempo y por el cumplimiento del importe facturado.</item>
+        <item>Gestionar los Comité de contratación (integrantes, puntos analizados, local, acuerdos y reportes).</item>
+        <item>Generar los contratos en formato editable Microsoft Word (.docx) según la plantilla definida en el tipo de contrato.</item>
+        <item>Adjuntar documentos digitales a los contratos y comité de contratación.</item>
+        <item>Envío de correos a los equipos de Venta/Compra sobre los contratos próximos a vencerse, los que se encuentren para los clientes y que no han regresado firmados y los que están al cumplir con su importe monetario.</item>
+        <item>Gestionar el tiempo (Ejemplo: 30 días) para empezar a enviar por correo los contratos próximos a vencerse, y del % límite con el importe monetario de los contratos.</item>
+        <item>Gestionar las facturas y asignarlas a los contratos.</item>
+        <item>Graficar de forma dinámica el comportamiento de la facturación y la ejecución monetaria.</item>
+        <item>Integración al Sistema contable financiero Versat-Sarasola, para importar clientes/proveedores y facturas (cuando se utiliza el módulo de facturación).</item>
+        <item>Integración al servidor de dominio para la autenticación del usuario.</item>
+        <item>Integración al servidor de correo, para las notificaciones de los contratos próximos a vencerse y los contratos que no han regresado firmado del cliente.</item>
+    </string-array>
 
     <string name="gestion_mantenimiento">Gestión de Mantenimiento</string>
     <string name="gestion_mantenimiento_description">Sistema para la gestión y administración
@@ -66,12 +104,31 @@ internos y lograr el éxito en el cumplimiento de sus metas.</string>
         (registro del Hardware, software y datos de Red); constituyendo un poderoso aliado
         para los responsables de Seguridad Informática. Aporta un control total y seguridad sobre
         la alteración de componentes informáticos.</string>
-a
+    a
     <string name="versige">Versige</string>
     <string name="versige_description">Sistema que recibe como entrada un conjunto de modelos que
         conformados los Estados Financieros (EFE), y arroja como salida diferentes ficheros XML
         referentes a cada uno; ficheros a ser importados en el sistema SIGELITE empleado en la Oficina
         de Estadísticas e Información(ONEI). Agilizando el proceso de la información de los EFE.</string>
+    <string-array name="vesige_func">
+        <item>1.Realizar las configuraciones de modelos de los Estados Financieros
+            (Empresa (5920,5921, 5924, 5925, 5926) y Unidad Presupuestada
+            (5910, 5911, 5912, 5913, 5914, 5915, 5916)).</item>
+        <item>2.Realizar las configuraciones de los formularios/modelos: 0009, 0003, 0004, 0006,
+            5073, 0011, 0012, 0091, 1001, 5201, 0004, 5202, 0024, 1006, 5205, 0335, 0336, 9015,
+            0467, 0436, 0729,0758, 0700, 0901, 1398, 2001, 5940, 5909, 2002, 0761, 0762, 1394,
+            9008, 9021, 9006, 1506, 5076 y 5077.</item>
+        <item>Realizar las configuraciones de firmas autorizadas.</item>
+        <item>4.Generar los ficheros XML de los EF, para la Empresa y Unidad Presupuestada
+            para importarlos al Sigelite.</item>
+        <item>5.Generar los ficheros XML de los formularios/modelos generales, para
+            importarlos al Sigelite.</item>
+        <item>6.Consultar, cuadrar y validar los Estados Financieros y el resto de los
+            Formularios.</item>
+        <item>Cuenta con las Notas Metodológicas de los Estados Financieros.</item>
+        <item>Generar reportes en formato PDF de los Estados Financieros y sus validaciones.</item>
+        <item>Salvar la base de datos (Automática y Manual).</item>
+    </string-array>
 
     <string name="fastos">Fastos</string>
     <string name="fastos_description">Solución integral para Recursos Humanos que automatiza las
@@ -100,24 +157,56 @@ a
         Central del Estado”. Certificado de Inscripción en el Ministerio de las Comunicaciones.\n\n
         Principales funcionalidades:\n
         </string>
+    <string-array name="acuerdos_func">
+        <item>Gestionar Reuniones, Acuerdos, Tareas e Indicaciones.</item>
+        <item>Importar las reuniones planificadas en el sistema de planificación del trabajo Agenda Express.</item>
+        <item>Asignar tareas, las cuales se integran al Agenda Express (es opcional), incluso en sus estados.</item>
+        <item>Notificar vía correo electrónico a los involucrados y el responsable cuando:
+            <ul>
+                <li>Se crea un Acuerdo.</li>
+                <li>Se modifica la fecha de cumplimiento del Acuerdo.</li>
+                <li>Se aproxima la fecha de cumplimiento del Acuerdo.</li>
+                <li>Se crea una Indicación.</li>
+                <li>Los involucrados en la Indicación, emiten respuestas de la misma.</li>
+            </ul>
+        </item>
+        <item>Informar de forma visual referente a los Acuerdos (porciento de cumplimiento, días restantes para su cumplimiento y diferenciar en color rojo los acuerdos que están pasados de la fecha de cumplimiento).</item>
+        <item>Gestionar el cumplimiento de las tareas, las cuales responden al % de cumplimiento de los Acuerdos.</item>
+        <item>Integración al Sistema de Capital Humano, para importar los empleados y locales de la entidad.</item>
+        <item>Integración al servidor de dominio para la autenticación del usuario.</item>
+        <item>Integración al servidor de correo, para las notificaciones de los acuerdos e indicaciones.</item>
+        <item>Reportes en formato PDF:
+            <ul>
+                <li>Acta de la reunión (formato Microsoft Word (.docx)).</li>
+                <li>Acuerdo creado.</li>
+                <li>Indicación creada (formato Microsoft Word (.docx)).</li>
+                <li>Acuerdos por reunión.</li>
+                <li>Resumen de cumplimiento de los Acuerdos en un período o en una reunión.</li>
+                <li>Registro de Indicaciones en un período.</li>
+            </ul>
+        </item>
+    </string-array>
 
     <string name="uforces">UForces</string>
     <string name="uforces_description">Solución web, desarrollada sobre tecnologías libres que
         permite gestionar la Fuerza de Trabajo Calificada.
-        &lt;br/> &lt;br/>
-        &lt;b>Principales funcionalidades:&lt;/b>
-        &lt;ul>
-            &lt;li> Integración con el &lt;b>GeFORZA&lt;/b>, para importar y exportar información
-                (empleados, carreras, ramas de la ciencia) en ambos sentidos.&lt;/li>
-            &lt;li> Actualizar los datos relacionados con la gestión de la fuerza de trabajo
-                calificada de manera automática, tanto la existencia y la fluctuación laboral de los
-                empleados, desde un servidor externo donde se gestionen los procesos de Recursos
-                Humanos (RH), ya sea utilizando los sistemas Fastos o Rodas, y en caso de no existir
-                un sistema automatizado para la gestión de RH permite la actualización a través de una
-                plantilla en formato .XLS.&lt;/li>
-            &lt;li> Exportar la información de los empleados al GeFORZA.&lt;/li>
-            &lt;li> Tablero resumen de las informaciones, a modo de información para los usuarios.&lt;/li>
         &lt;/ul></string>
+    <string-array name="uforces_func">
+        <item>Integración con el GeFORZA, para importar y exportar información (empleados, carreras, ramas de la ciencia) en ambos sentidos.</item>
+        <item>Actualizar los datos relacionados con la gestión de la fuerza de trabajo calificada de manera automática, tanto la existencia y la fluctuación laboral de los empleados, desde un servidor externo donde se gestionen los procesos de Recursos Humanos (RH), ya sea utilizando los sistemas Fastos o Rodas, y en caso de no existir un sistema automatizado para la gestión de RH permite la actualización a través de una plantilla en formato .XLS.</item>
+        <item>Exportar la información de los empleados al GeFORZA</item>
+        <item>Gestionar Centro de Estudios.</item>
+        <item>Gestionar Carreras y Rama de Ciencia de carreras.</item>
+        <item>Gestionar Familia de Carreras.</item>
+        <item>Crear la Demanda de graduados.</item>
+        <item>Gestionar las Altas y Bajas de la entidad.</item>
+        <item>Asistente para actualizar las provincias y municipios con el identificador del sistema GeFORZA.</item>
+        <item>Asistente para actualizar el campo rango de edad para cada empleado de acuerdo a los rangos de edades del GeFORZA.</item>
+        <item>Actualizar los datos de empleados, desde servidor externo o archivos en formato .XML y .XLS.</item>
+        <item>Exportar archivos .XML para actualizar el Sistema GeFORZA de manera automática.</item>
+        <item>Validaciones de las informaciones a importar al GeFORZA.</item>
+        <item>Tablero resumen de las informaciones, a modo de información para los usuarios.</item>
+    </string-array>
 
     <string name="pc_inside">PC-Inside</string>
     <string name="pc_inside_description"> Sistema web, desarrollado sobre tecnologías libres, que
@@ -125,24 +214,34 @@ a
         conectados a la red de la empresa. Obteniendo la información desde el OCS-Inventory mediante
         una constante sincronización de la información. Además, cuenta con varias funcionalidades para
         la gestión de la información en el departamento de Informática de una empresa.
-        &lt;br/> &lt;br/>
-        &lt;b>Principales funcionalidades:&lt;/b>
-        &lt;ul>
-            &lt;li> Gestionar la información de las computadoras (Ejemplos: Sistema Operativo,
-            Placa base, Microprocesador, RAM, Almacenamiento, Tarjetas, RED y otras) y dispositivos
-            (Ejemplos: Monitor, De entrada, Modem e Impresoras).&lt;/li>
-            &lt;li> Gestionar los movimientos de las computadoras y sus dispositivos.&lt;/li>
-            &lt;li> Generar un código QR (Con la información de &lt;b>Nombre, Asignado a, Local y Número
-        de Inventario&lt;/b>) de la computadora (Unidad central y sus principales periféricos) para imprimir
-        y pegar, de forma que permita realizar un inventario.&lt;/li>
-            &lt;li> Gestionar plan de auditorías.&lt;/li>
-        &lt;/ul>
     </string>
+    <string-array name="pc_inside_func">
+     <item>Gestionar la información de las computadoras (Ejemplos: Sistema Operativo, Placa base, Microprocesador, RAM, Almacenamiento, Tarjetas, RED y otras) y dispositivos (Ejemplos: Monitor, De entrada, Modem e Impresoras).</item>
+     <item>Gestionar los movimientos de las computadoras y sus dispositivos.</item>
+     <item>Generar un código QR (Con la información de Nombre, Asignado a, Local y Número de Inventario) de la computadora (Unidad central y sus principales periféricos) para imprimir y pegar, de forma que permita realizar un inventario.</item>
+     <item>Gestionar los Mantenimientos a computadoras y dispositivos.</item>
+     <item>Gestionar plan de auditorías.</item>
+     <item>Gestionar incidentes de seguridad.</item>
+     <item>Gestionar inspecciones.</item>
+     <item>Gestionar software autorizado.</item>
+     <item>Gestionar borrado seguro.</item>
+     <item>Gestionar planificación de salvas.</item>
+     <item>Gestionar licencia de red.</item>
+     <item>Gestionar solicitud de sistemas/servicios.</item>
+     <item>Notificar por correo electrónico los movimientos de periféricos internos y externos en las computadoras.</item>
+    </string-array>
 
     <string name="productos">Productos</string>
     <string name="desoft">desoft</string>
     <string name="copy_rigth">Desoft © 2021 Todos los derechos reservados.</string>
     <string name="logo_descriptio">Logo de desoft</string>
+    <string name="mostrar_funcionalidades">Mostrar Funcionalidades</string>
+    <string name="carretera_central_24_esq_mart_holgu_n_cuba">Carretera Central #24 esq. Martí, Holguín, Cuba</string>
+    <string name="_5324473046">+5324473046</string>
+    <string name="_5324468152">+5324468152</string>
+    <string name="comercial_email">comercial.holguin@desoft.cu</string>
+    <string name="www_desoft_cu">www.desoft.cu</string>
+    <string name="cont_ctenos">Contáctenos:</string>
 
 
     <string-array name="products_array">
@@ -163,7 +262,7 @@ a
 
     <string-array name="services_array">
         <item>
-        Consultoría, Levantamiento, Diseño y Desarrollo a la medida de aplicaciones para la iformatizar y optimizr procesos.
+        Consultoría, Levantamiento, Diseño y Desarrollo a la medida de aplicaciones para informatizar y optimizr procesos.
         </item>
         <item>Diagnóstico, Instalación, Configuración, Adiestramiento, Operación asistida,
             Despliegue y personalización de los productos que comercializamos.</item>

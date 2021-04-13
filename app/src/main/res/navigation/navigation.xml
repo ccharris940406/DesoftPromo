@@ -34,7 +34,11 @@
         android:id="@+id/product"
         android:name="com.desoft.promodesoft.Product"
         android:label="fragment_product"
-        tools:layout="@layout/fragment_product" />
+        tools:layout="@layout/fragment_product" >
+        <action
+            android:id="@+id/action_product_to_productFuntionalities"
+            app:destination="@id/productFuntionalities" />
+    </fragment>
     <fragment
         android:id="@+id/productos"
         android:name="com.desoft.promodesoft.Productos"
@@ -54,4 +58,9 @@
         android:name="com.desoft.promodesoft.ContactUs"
         android:label="fragment_contact_us"
         tools:layout="@layout/fragment_contact_us" />
+    <fragment
+        android:id="@+id/productFuntionalities"
+        android:name="com.desoft.promodesoft.ProductFuntionalities"
+        android:label="fragment_product_funtionalities"
+        tools:layout="@layout/fragment_product_funtionalities" />
 </navigation>
