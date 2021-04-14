@@ -26,7 +26,8 @@ class ProductosListAdapter(private val dataSet: Array<String?>,
     override fun onBindViewHolder(holder: ViewHolder, position: Int) {
         holder.productButton.text = dataSet[position]
         holder.productButton.setOnClickListener{view: View ->
-            frag.setFragmentResult("productKey", bundleOf("productChoosen" to secondDataSet[position]))
+            //frag.setFragmentResult("productKey", bundleOf("productChoosen" to secondDataSet[position]))
+            frag.model.selected = secondDataSet[position]
             view.findNavController().navigate(R.id.action_productos_to_product)
         }
     }

@@ -14,14 +14,20 @@ import android.widget.Button
 import android.widget.TextView
 import androidx.annotation.RequiresApi
 import androidx.core.os.bundleOf
+import androidx.fragment.app.activityViewModels
 import androidx.fragment.app.setFragmentResult
 import androidx.fragment.app.setFragmentResultListener
 import androidx.navigation.findNavController
 
 class Product : Fragment() {
 
+    private val model: productSelected by activityViewModels()
     private lateinit var productos:Array<String>
     private lateinit var productParent: String
+    override fun onCreate(savedInstanceState: Bundle?) {
+        super.onCreate(savedInstanceState)
+
+    }
     @RequiresApi(Build.VERSION_CODES.N)
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?,
@@ -33,10 +39,10 @@ class Product : Fragment() {
         val viewMore: Button = ret.findViewById(R.id.view_more_button)
         val productNameTextView:TextView = ret.findViewById(R.id.product_name)
         val descriptionTextView:TextView =ret.findViewById(R.id.product_description)
-        var productParent:String = ""
-        setFragmentResultListener("productKey"){
-            _, bundle ->
-            val productChoosen = bundle.getString("productChoosen")
+        //setFragmentResultListener("productKey"){
+            //_, bundle ->
+            //val productChoosen = bundle.getString("productChoosen")
+        val productChoosen = model.selected
             productParent = productChoosen.toString()
 //            if (productChoosen != null) {
 //                setUp(productChoosen, ret)
@@ -67,9 +73,9 @@ class Product : Fragment() {
 
             productNameTextView.text = printer.productName
             descriptionTextView.text = styled
-        }
+        //}
         viewMore.setOnClickListener {
-            setFragmentResult("functionalitiesKey", bundleOf("productParent" to productParent) )
+            //setFragmentResult("functionalitiesKey", bundleOf("productParent" to productParent) )
             ret.findNavController().navigate(R.id.action_product_to_productFuntionalities)
         }
         return ret

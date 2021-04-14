@@ -6,6 +6,7 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import android.widget.TextView
+import androidx.fragment.app.activityViewModels
 import androidx.fragment.app.setFragmentResultListener
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
@@ -17,6 +18,7 @@ import androidx.recyclerview.widget.RecyclerView
  */
 class ProductFuntionalities : Fragment() {
 
+    private val model:productSelected by activityViewModels()
     private lateinit var productos:Array<String>
     override fun onCreateView(inflater: LayoutInflater, container: ViewGroup?,
                               savedInstanceState: Bundle?): View? {
@@ -25,11 +27,11 @@ class ProductFuntionalities : Fragment() {
         productos = resources.getStringArray(R.array.products_array)
         val pname: TextView = ret.findViewById(R.id.product_name_funtionality)
 
-        setFragmentResultListener("functionalitiesKey"){
-            _, bundle ->
-            val productParent = bundle.getString("productParent")
+        //setFragmentResultListener("functionalitiesKey"){
+            //_, bundle ->
+            //val productParent = bundle.getString("productParent")
             data class duple (val productName:String, val producFunctions:Array<String>)
-            val printer:duple = when(productParent){
+            val printer:duple = when(model.selected){
                 "agenda_express" ->             duple(getString(R.string.agenda_express), resources.getStringArray(R.array.agenda_func))
                 "mentor" ->                     duple(getString(R.string.mentor), resources.getStringArray(R.array.mentor_func))
                 "versige" ->                    duple(getString(R.string.versige), resources.getStringArray(R.array.vesige_func))
@@ -42,7 +44,7 @@ class ProductFuntionalities : Fragment() {
             val recyclerView: RecyclerView = ret.findViewById(R.id.funtionalities_list)
             recyclerView.layoutManager = LinearLayoutManager(ret.context)
             recyclerView.adapter = FuntionalitiesListAdapter(printer.producFunctions)
-        }
+        //}
 
         return ret
     }
